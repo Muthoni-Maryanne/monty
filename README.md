@@ -97,7 +97,6 @@ int main()
   printf("Stack empty: %s\n" , isempty()?"true":"false");
   return (0);
 }
-
 ```
 Implementation of stacks using linked lists
 ```
